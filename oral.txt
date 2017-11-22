@@ -1,0 +1,468 @@
+Mo1.1 
+Experimental Demonstration of Amplified Feedback DFB Laser Based on the Reconstruction Equivalent Chirp Technique	
+
+Jilin Zheng, Tao Pu, Jin Li,( PLA University of Science and Technology, P.R. China); Zhike Zhang, Yu Liu, (Institute of Semiconductors, Chinese Academy of Sciences, P.R. China); Guowang Zhao, Yuechun Shi, Jun Lu, Xiangfei Chen, (Nanjing University, P.R. China); Yunshan Zhang, Lianyan Li, (Nanjing University of posts and Telecommunications, P.R. China);Xing Zhang, (Changchun Institute of Optics and Fine Mechanics and Physics, P.R. China)
+
+An amplified feedback DFB laser with extended modulation bandwidth is experimentally demonstrated in this paper. All the three sections of laser cavity, including DFB section, phase section and amplified feedback section, have the same active layer, which can avoid the butt-joint re-growth process. The gratings in both DFB section and amplified feedback section are fabricated by the Reconstruction Equivalent Chirp technique, which can significantly decrease the difficulties in realizing precise grating structure. An enhanced ?3 dB bandwidth of 19 GHz is achieved by means of a normal low-frequency wafer. 30 MSymbol/s 16-QAM signal with 15 GHz carrier are transmitted via 10 km radio-over-fiber link using the as-fabricated directly modulated DFB laser, and the average error vector magnitude of the whole link is 4.38%.
+
+
+Mo1.2
+FBGs based multicore fiber curvature sensor interrogation using microwave photonics filtering techniques	
+
+Di Zheng, Yanhao Ma, (School of Information Science & Technology, Southwest Jiaotong University, Chengdu, China); Di Zheng, Javier Madrigal, David Barrera, Salvador Sales, (Jose Capmany, ITEAM Research Institute Universitat Polit¨¨cnica de Val¨¨ ncia, Valencia, Spain)
+
+A high-resolution and temperature-insensitive interrogation scheme for fiber Bragg grating (FBG) based multicore fiber curvature sensor using microwave photonics filtering techniques is proposed and verified by experimental demonstration. The principle of operation exploited for curvature interrogation is based on monitoring the notch frequency shift of a two-tap microwave photonics filter (MPF), which is formed by combining two reflected sample signals from the two FBGs inscribed in multicore fiber (MCF) and a dispersion device. The proposed interrogation scheme with the sensitivity of 92 MHz/m-1 is achieved, whilst it is naturally insensitive to any temperature variations.
+
+
+Mo1.3 
+On-wafer RF characterization of integrated silicon photonic transceivers with self-calibration method	
+
+S. J. Zhang, H. Wang, X. H. Zou, Y. Liu; S. J. Zhang, C. Zhang, J. D. Peters, J. E. Bowers
+
+An on-wafer and self-calibrated scheme is proposed and demonstrated for self-referenced microwave characterization of a silicon integrated optical transceiver. The proposed self-calibration method enables on-wafer selective extraction of microwave characteristic parameters of high-speed modulators and photodiodes in the integrated optical transceiver, without the need for extra electrical-to-optical or optical-toelectrical calibration.
+
+
+Mo1.4 
+Design and Characterization of a Photonic Integrated Circuit for Beam Forming in 5G Wireless Networks
+
+Giovanni Serafino, Claudio Porzi, (Scuola Superiore Sant'Anna, Italy); Vito Sorianello, (Paolo Ghelfi, CNIT, Italy); Antonio D'Errico, (Ericsson, Italy); Sergio Pinna, (Scuola Superiore Sant¡¯Anna, Italy) ; Marzio Puleri , (ERICSSON, Italy) ; Marco Romagnoli , Antonella Bogoni , (CNIT, Italy)
+
+We present the design and experimental characterization of a silicon-on-insulator photonic integrated circuit to be used as building block in photonics-based beamforming networks for 5G wireless systems. The integrated module controls the phase of the millimeter-wave signals transmitted and received by an antenna element in a phased-array antenna. It comprises an optical de-interleaver for carrier-sideband separation, a microring resonator (MRR) -based phase-shifter (PS) and a carrier depletion-based MRR electro-optic modulator. The photonic de-interleaver enables flexible operation with different RF frequencies. The PS exploits two thermally-tunable cascaded MRRs that allow continuous shifting of the carrier phase over more than 400 degrees. The device is proved allowing a precise beamforming control with a power consumption of few tens of mWs per antenna element.
+
+
+Mo1.5 
+A Silicon Photonic Integrated Frequency-Tunable Microwave Photonic Bandpass Filter
+
+Weifeng Zhang , Jianping Yao, (University of Ottawa, Canada)
+
+We report a fully integrated microwave photonic passband filter on a silicon photonic chip. The on-chip integrated microwave photonic filter (IMPF) consists of a high-speed phase modulator (PM), a thermally tunable high-Q micro-disk resonator (MDR), and a high-speed photodetector (PD). The bandpass filtering function of the IMPF is implemented based on phase modulation and phase-modulation to intensity-modulation conversion, to translate the spectral response of an optical filter, which is the MDR in the IMPF, to the spectral response of a microwave filter. By injecting a CW light from a laser diode (LD) to the PM, a passband IMPF with a broad tuning range is demonstrated. Thanks to the ultra-narrow notch of the MDR, a passband IMPF with a 3-dB bandwidth of 2.3 GHz is realized. By thermally tuning the MDR, the center frequency of the IMPF is tuned from 7 to 25 GHz, achieving a tuning range of 18 GHz at a power consumption of 1.58 mW. This successful implementation of an IMPF marks a significant step forward in full integration of microwave photonic systems on a single chip and opens up avenues toward real applications of microwave photonic filters.
+
+
+Mo1.6 
+RF photonic Frontend on a Chip	
+
+Longtao Xu, (University of Massachusetts Dartmouth, USA); Ding Ding, (Beijing University of Posts and Telecommunications, USA); Shilei Jin, (University of Massachusetts Dartmouth, USA); Yifei Li, (University of Mass. Dartmouth, USA)
+
+We present the concept, design, fabrication and preliminary measurement results of a RF photonic fronted on a photonic IC chip. The RF photonic frontend employs linear optical phase modulation and linear phase demodulation by an ACP-OPLL. The link achieves frequency down-conversion by optical sampling. The preliminary results demonstrated down conversion SFDR of 108.1dB?HZ2/3 with 1GHz RF and 50MHz IF input.
+
+
+Mo2.1 
+Linear Frequency-Modulated Waveform Generation Based on a Tunable Optoelectronic Oscillator	
+
+Pei Zhou, (NUAA, P.R. China); Fangzheng Zhang, (Nanjing University of Aeronautics &amp; Astronautics, P.R. China); Qingshui Guo, (NUAA, P.R. China); Shilong Pan, (Nanjing University of Aeronautics &amp; Astronautics, P.R. China)
+
+A new scheme for generating linear frequency-modulated (LFM) microwave waveforms is proposed and demonstrated based on a tunable optoelectronic oscillator (OEO) with an optically injected semiconductor laser. Frequency tunability of the OEO is achieved by controlling injection strength of the injection light. When the sweep period of output frequency matches with the cavity round-trip time, the signal quality of generated LFM waveform is significantly improved by the high Q optoelectronic oscillation. In the experiment, LFM signal with a sweep range as large as 7 GHz, a sweep rate reaching 0.18 GHz/ns, and a time-bandwidth product (TBWP) up to 2804.2 is generated. An improvement of the frequency comb contrast by 43 dB is also achieved in the spectrum. The proposed LFM waveform generator features large bandwidth, fast sweeping rate, and high spectral purity, which may find wide applications in future radar systems.
+
+
+Mo2.2
+Coherent Frequency Tuneable THz Wireless Signal Generation Using an Optical Phase Lock Loop System
+
+Haymen Shams, Katarzyna Balakier, (University College London, United Kingdom, Great Britain); Martyn Fice, Lalitha Ponnampalam, Chris Graham, (University College London, United Kingdom, Great Britain); Fr¨¦d¨¦ric Van Dijk, (Alcatel Thales III-V Lab, France); Cyril Renaud, Alwyn Seeds, (University College London, United Kingdom, Great Britain)
+
+We demonstrate experimentally, for the first time, the photonic generation of a continuous tunable THz wireless signal based on using an optical phase lock loop (OPLL) sub-system and optical frequency comb generator (OFCG). The OPLL is employed to select one line from the optical comb and shift it by the desired frequency offset allowing for the frequency tuneability of THz carrier signal. The selected optical tone from the OPLL is heterodyne mixed with another selected optical line of the optical comb to generate a stabilized THz frequency carrier with a low phase noise. Full system operation is demonstrated by transmitting wirelessly a THz signal modulated with 10 Gbaud QPSK data. The system performance is evaluated for four selected THz carrier frequencies obtained by tuning the laser included in the OPLL. This configuration is a promising architecture that would allow a THz carrier to be flexibly generated at the central office with high frequency stability and low phase noise.
+
+
+Mo2.3 
+All-Optical Random Sequence Generation For Compressive Sensing Detection of RF Signals	
+
+Chaitanya Mididoddi, Eamonn J Ahmad, Chao Wang, (University of Kent, United Kingdom, Great Britain)
+
+Photonic compressive sensing is a promising data compression method and has been successfully applied in high-speed RF signal detection with greatly reduced requirement for receiver bandwidth. A key challenge is due to the electronic bottleneck in high-speed random sequence mixing. In this work, we propose and experimentally demonstrated for the first time all-optical random pattern generation and mixing for compressive sensing detection of RF signals. The technique is based on photonic time stretch involving cascaded Mach-Zehnder Interferometers (MZIs) for spectral domain random mixing. In a proof-of-concept experiment, successful detection of 1 GHz RF signal with 10% compression ratio using only 50 MHz detection bandwidth has been demonstrated.
+
+
+Mo2.4 
+Reconfigurable photonic generation of arbitrary RF chirped waveforms based on a single CW laser	
+
+Hugues Guillet de Chatellus, (LIPhy &amp; CNRS/UGA, France); Come Schnebelin, (LIPhy, France); Maurizio Burla, Luis Romero Cort¨¦s, Jose Azana,(INRS-EMT, Canada)
+
+We demonstrate a novel technique for the generation of fully-reconfigurable radio frequency chirped waveforms with extremely simple hardware based on a single CW laser and a frequency-shifting loop. All the waveform parameters, namely sign and value of the chirp rate, bandwidth, repetition rate and chirp duration are fully reconfigurable by simply tuning the frequency of a MHz-range single RF tone. In addition, the envelope of the generated RFCW can be shaped arbitrarily. We experimentally report the generation of arbitrary RF chirps with time duration ranging from 1 ns to over 100 ns, bandwidth above 28 GHz, and time-bandwidth product exceeding 1000, limited only by the detection bandwidth available.
+
+
+Mo2.5 
+Highly linear silicon Mach-Zehnder modulators with optimized phase-shifter	
+
+Sheng Yu, Yadong Liu, (Institute of Semiconductors, Chinese Academy of Sciences, P.R. China); Tao Chu, (Zhejiang University, P.R. China)
+
+We have experimentally demonstrated that the linearity of a silicon Mach-Zehnder modulator (MZM) could be improved by optimizing its phase-shifter length (PSL). Through the optimization of the PSL, the third order intermodulation distortion of the silicon MZM could be 16.7 dB lower than that of a commercial LiNbO3 MZM. The spurious free dynamic range of the link with the silicon MZM could be 4.1 dB higher than that with the LiNbO3 MZM.
+
+
+Mo2.6 
+A Radio Astronomy L-Band Phased Array Feed System using RF over Fiber Distribution
+
+Ron Beresford, (CSIRO, Australia)
+
+This is an overview of the system level RF design for the second generation architecture used in the Australian Square Kilometre Array Pathfinder (ASKAP) design enhancement (ADE). ADE is a distributed antenna system (DAS) of 36 reflector antennas each 12m in diameter. Each antenna has a planar Phased Array Feed (PAF) at the prime focus. The PAF contains 188 broadband 700-1800MHz receptors. Inside a PAF the radioastronomy (RA) signals are amplified, band selected and converted to 188 individual broadband RF over (singlemode optical) fiber (RFoF) lightwaves. The entire ADE array has 6840 RFoF links, this includes transmission line delay metrology for each reflector. The longest RFoF span is 6km. Optical to RF demodulation of the RF sky signal at the central site Digital Signal Processing (DSP) shielded building is direct sampled in 12bit analog to digital convertors (ADCs). Digital beamforming provides 36 pencil beams, each of 384MHz bandwidth. The scale of ADE represents a leap forward in applied RF and photonic techniques to enable a simpler, lower cost, more modular, EMC compliant, phased array receiver architecture. ADE will provide unprecedented high speed sky surveys with an instantaneous widefield of view (30deg2 at 1420MHz) capability for a new generation of radio astronomers.
+
+
+Tu1.1 
+InP based platform for MWP
+
+Luc Augustin , (SMART photonics, the Netherlands)
+
+
+Tu1.2 
+Integrated RF-Photonic Delay Lines using Reconfigurable Photonic Waveguide Meshes	
+
+Daniel P¨¦rez, Ivana Gasulla, Jose Capmany, (Universidad Politecnica de Valencia, Spain); Lee Crudgington, David Thomson, Ali Khokhar, Ke Li, Wei Cao, Goran Z Mashanovich
+
+In this paper we demonstrate the implementation of optical delay lines on a programmable hexagonal waveguide mesh integrated in Silicon on Insulator (SOI). This building block enables the synthesis of reconfigurable discrete-time filters and beamforming networks.
+
+
+Tu1.3 
+Lens-assisted Quasi-Optical THz Transmitter employing Antenna-integrated Triple Transit Region Photodiodes	
+
+Vitaly Rymanov, Peng Lu, (University of Duisburg-Essen, Germany); Sebastian D¨¹lme, (Universit?t Duisburg-Essen, Germany); Andreas St?hr
+
+In this paper, a compact lens-assisted quasi-optical THz transmitter, using a 2x2 mm2 planar log-periodic toothed antenna / bow-tie antenna (LPTA/BTA) integrated InP-based waveguide triple transit region (TTR) photodiode chip and an extended highly-resistive silicon (HR-Si) quasi-optical lens, is developed and presented for directive THz beam forming. In order to decrease the optical propagation loss in the passive optical waveguide section (<1 dB), as well as enable the THz range capability of the integrated TTR-photodiode by optimized impedance matching to the antenna feed and increase the THz beam directivity (>25 dBi) of the developed LPTA/BTA-integrated THz photomixer, different numerical analyses are carried out with respect to the optical waveguide and the RF antenna characteristics, considering the integrated HR-Si quasi-optics. Experimentally, THz operation up to a frequency of about 300 GHz is demonstrated for the fabricated lens-assisted quasi-optical THz transmitters.
+
+
+Tu1.4
+Integrated Optical Beamforming Network for Millimeter Wave Communications
+
+Yuan Liu, Fengqiao Sang, Brandon Isaac, Jonathan Klamkin, (University of California, Santa Barbara, USA); Sergio Pinna, (Scuola Superiore Sant¡¯Anna, Italy); Jean Kalkavage, Eric Adles, Thomas Clark, (The Johns Hopkins University Applied Physics Laboratory, USA)
+
+An optical ring resonator (ORR) based 1 ¡Á 4 integrated optical beamforming network (OBFN) targeting mmW is reported. The optimized true time delay response of a 3-ORR delay line with a bandwidth of 8.7 GHz was achieved over tuning range of 172.4 ps, which corresponds to a 31¦Ð phase shift for a 90 GHz signal. A 3 Gbps OOK NRZ data signal was transmitted through the delay line to verify the overall performance. A 49-degree beamsteering angle equivalent OBFN delay response was achieved for a 90 GHz half-wavelength dipole antenna array. Using heterodyne upconversion technology and a single delay path, 41 GHz mmW signal with 3 Gbps OOK NRZ data modulation was generated and delayed.
+
+
+Tu1.5
+Large Capacity Terahertz Tag Using Photonic Crystal Slabs 
+
+Yusuke Kujime, Masayuki Fujita, Tadao Nagatsuma, (Osaka University, Japan)
+
+The Internet of Everything (IoE) has attracted a great deal of interest. To realize the IoE concept, information tags which directly attach to objects are one of the keys to date. However, in terms of security or their uniqueness issues, today's information tags are still not satisfactory. Here, we propose the use of large capacity terahertz (THz) tags; by utilizing both frequency and spatial domains. This approach is expected to reduce our security concerns towards future IoE applications. In place of usual small capacity THz tag techniques, we introduced a new approach by large capacity THz tags using two dimensional (2D) photonic-crystal slabs in a matrix. As a result, we successfully demonstrated a THz tag of 48 bits/cm2 at 600-GHz band. In conclusion, we anticipate that this work will contribute to the further development of the capacity enhancement of the THz tag: over 128 bits/cm2 suitable for various IoE applications.
+
+
+Tu1.6 
+Sub-20-dB Noise Figure and Positive Link Gain in a Chip-based Si3N4 Microwave Photonic Filter	
+
+Yang Liu; David Marpaung; Amol Choudhary; Jason Hotten, Benjamin Eggleton
+
+We present a microwave photonic notch filter based on a Si3N4 photonic chip, with a noise figure of less than 20 dB, a positive link gain and an ultra-deep rejection beyond 50 dB in the stopband. This level of performance is achieved by using on-chip resonators' unique phase responses, and thorough optimizations of the photonic link.
+
+
+Tu2.1 
+Integrated Microwave Photonic Signal Processor 
+
+Xiaoke Yi
+
+
+Tu2.1
+Tunable Single Passband Microwave Photonic Filter using a Cascaded Pair of Microring Resonators
+
+Shijie Song, Xiaoke Yi, Suen Chew, Linh Nguyen, Robert Minasian, (University of Sydney, Australia)
+
+We propose and demonstrate a novel integration based technique employing a cascaded pair of silicon-on-insulator (SOI) microring resonators to achieve a tunable single passband filter. The use of a double microring structure provides an all-integration approach to eliminate the usual selectivity dependence of the radio frequency (RF) response on the shape of a single ring resonator. Instead, the selectivity of the RF filter is enhanced by controlling the relative difference between the bandwidths of the two optical ring resonators which directly maps to the resulting bandwidth of the RF passband. Experimental results show the realization of a tunable single passband filter with out-of-band rejection ratio around 20 dB. The RF filter is demonstrated with a tuning capability from 6 GHz to 17 GHz without altering the optical carrier frequency, while maintaining the filter bandwidth below 1.9 GHz. Moreover, the shape factor was also kept within 1.78 with a variation of only +-0.05 throughout the entire tuning range, thus successfully accomplishing shape invariant tuning of the single passband without compromising the filter rejection bandwidth.
+
+
+Tu2.2
+On-Chip Selectable-Frequency Comb Generation by Passive Harmonic Mode Locking
+
+Mu-Chieh Lo, Robinson Guzm¨¢n, (Universidad Carlos III de Madrid, Spain); Carlos Gordon, (Universidad T¨¦cnica de Ambato, Ecuado)r; Muhsin Ali and Guillermo Carpintero, (Universidad Carlos III de Madrid, Spain)
+
+A monolithic integrated 2.8-mm colliding-pulse mode-locked laser is demonstrated to emit optical combs with switchable mode spacing for millimeter-wave generation. By selecting the DC-bias condition, the laser is forced to operate in harmonic mode locking regimes. Optical frequency combs with mode spacing of 2nd (30 GHz), 3rd (45 GHz), 4th (60 GHz) and 6th (90 GHz) harmonics are presented. The autocorrelation trace of 2nd harmonic exhibits a 1.03-ps pulsewidth. The beat note of 4th harmonic has an RF linewidth of 520 kHz.
+
+
+Tu2.3
+Photonic Generation of Linear Frequency Modulated Terahertz Pulses in the 350 GHz Band with beyond 40 GHz Bandwidth	
+
+Hangkai Zhang, Jia Shi, Xianbin Yu, (Zhejiang University, P.R. China)
+
+A simple photonic scheme for generation of linear frequency modulated (LFM) THz pulses with large bandwidth is experimentally demonstrated based on optical interferometer. We successfully generate linearly chirped THz pulses centered at 350 GHz, and featuring a bandwidth in excess of 40 GHz. The tunability of the THz center frequency is also investigated in the experiment. The time bandwidth product (TBWP) of the generated THz pulses is up to 360, which will have a potential in implementing high resolution radar sensing and imaging.
+
+
+Tu2.4
+Dispersion-Free Wavelength-to-Time Mapping Method for Optical Arbitrary Waveform Generation	
+
+Xinyi Zhu, Hao, Sun Wei, Li Ning-Hua Zhu, Ming Li, (University of Chinese Academy of Sciences &amp; Institute of Semiconductors)
+
+A novel approach to generate arbitrary waveforms based on spectrum-shaping and wavelength-to-time mapping without any dispersive element is proposed and investigated. The generation of a variety of waveforms, including Gaussian, square, and other specific waveforms, is demonstrated experimentally. The arbitrary waveform generator feathers superior advantages such as low power loss, simple structure, and high reconfiguration.
+
+
+Tu2.5 
+Experimental Design of a Low Phase Noise Coupled Optoelectronic Oscillator at 10 GHz	
+
+Oriane Leli¨¨vre, Vincent Crozatier, Pascale Nouchi, Daniel Dolfi, Loic Morvan ,(Thales Research &amp; Technology, France); Ghaya Baili, (Thales Research and Technology &amp; TRT-FR, France); Olivier Llopis, (LAAS-CNRS, France); Fabienne Goldfarb,  Fabien Bretenaker, (Laboratoire Aim¨¦ Cotton, France)
+
+We present an experimental study on two key elements to design a low phase noise coupled optoelectronic oscillator (COEO). Fiber lengths and dispersions are investigated to highlight the differences between the optical and optoelectronic loops. After optimization, a 10 GHz COEO at 1.5 ¦Ìm with a total of 590 m of fiber exhibits phase noise levels of -125 dBc/Hz at 1 kHz and -140 dBc/Hz at 10 kHz.
+
+
+Tu2.6 
+A compact optical-microwave phase detector based on a polarization modulator	
+
+Juan Wei, (Nanjing University of Aeronautics &amp; Astronautics); Shilong Pan, (Nanjing University of Aeronautics &amp; Astronautics, P.R. China); Jungwon Kim, Shuangyou Zhang, (KAIST, Korea)
+
+A compact optical-microwave phase detector is proposed and its performance is evaluated by synchronizing an 8-GHz voltage-controlled oscillator to a 250-MHz mode-locked laser. The residual out-of-loop phase noise is -115 dBc/Hz (-146 dBc/Hz) at 1 Hz (100 kHz) offset frequency and the integrated RMS timing jitter from 1 Hz to 100 kHz is 839 as. The proposed phase detector has a compact structure and is easy to implement using all commercial devices to achieve subfemtosecond synchronization between optical pulses and microwave oscillators.
+
+
+Tu3.1
+Silicon photonic circuits for RF filtering and LIDAR applications 
+
+Jerome Bourderionnet (Thales Research & Technology, France)
+
+
+Tu3.2
+Performance Evaluation of CoMP for Downlink 60-GHz Radio-over-Fiber Fronthaul	
+
+Yu Tian, Ka Lun (Alan) Lee and Christina Lim, Ampalavanapillai Nirmalathas,( The University of Melbourne, Australia)
+
+We propose and experimentally demonstrate a downlink 60-GHz millimeter-wave radio-over-fiber fronthaul incorporating coordinated multipoint (CoMP) transmission scheme. CoMP function is implemented in the centralized baseband unit to obtain the transmission diversity. Space-time diversity gain is exploited to improve the data rate of cell-edge users as well as the coverage of 60-GHz small cells. To serve a cell-edge user, Alamouti space-time block code (STBC) is used between two coordinated remote radio heads (RRHs). 2 Gbps 4-QAM signal was transmitted over 3 km fronthaul link. Experimental results show that receiver sensitivity of CoMP system can be improved by 1.8 dB compared with two RRHs transmission without STBC at BER=1e-4. The impact of time synchronization errors between two cooperative channels is also analyzed. The coordinated fronthaul scheme employing STBC can be tolerable to much higher delays than would be possible for two channels transmission without STBC.
+
+
+Tu3.3 
+Dual-band linear frequency-modulated continuous wave radar receiver with high image rejection based on microwave photonic I/Q mixer	
+
+Ziyi Meng, Jianqiang Li, Chunjing Yin, Yuting Fan, Feifei Yin, Yue Zhou, Yitang Dai,Kun Xu, (Beijing University of Posts and Telecommunications, P.R. China)
+
+We propose a dual-band linear frequency-modulated continuous wave (LFMCW) radar receiver based on a microwave photonic in-phase and quadrature (I/Q) mixer, able to simultaneously operate on two different bands over a very board frequency range. The sharing of hardware resources and joint processing of dual bands are implemented by applying a special dual-band sensing waveform. An unambiguous and independent distance measurement of S- and C-bands is demonstrated experimentally. The results exhibit a high and uniform image rejection more than 28 and 30 dB for S- and C-bands, allowing a further improvement of around 15 dB and 10 dB using digital signal processing (DSP).
+
+
+Tu3.4
+Proposal and Demonstration of SIM-OFDM Based Radio-over-Fiber System	
+
+Tang Tang, Xihua Zou, Peixuan Li, Wei Pan,( Southwest Jiaotong University, P.R. China)
+
+We propose and experimentally demonstrate a radio-over-fiber (RoF) system employing subcarrier-index modulation (SIM) orthogonal-frequency-division multiplexing (OFDM) signal. Thanks to the introduction of a new freedom in terms of SIM, a robust and energy-effective transmission solution is achieved for the RoF system. In the experiments, the 8-GHz QPSK-SIM-OFDM and conventional QPSK-OFDM signals are transmitted in an RoF system with a 10-km single-mode fiber (SMF) link. Compared with conventional QPSK-OFDM, the proposed QPSK-SIM-OFDM for RoF system is verified with higher energy efficiency and a lower bit error ratio (BER) for a medium or high signal-to-noise ratio (SNR). Concerning the energy efficiency of the proposed ROF system, defined as the total amount of reliably decoded bits normalized by the energy, it is about 1.5 times higher than that of conventional QPSK-OFDM.
+
+
+Tu3.5
+High-resolution characterization of parametric sampling based photonic phase locking	SJTU
+
+Guang Yang, Weiwen Zou, Jianping Chen, (Shanghai Jiao Tong University, P.R. China) 
+
+We demonstrate a novel photonic phase locking between the pulse train from a passively mode locked laser and the photonic signal generated from an actively mode locked laser. A high-resolution characterization of the photonic phase locking is also presented. In the phase locking loop, the phase detection is employed by the parametric sampling in a photonic crystal fiber and its residual error is characterized by both the phase noise measurement and the digitization of the sampling results. The residual phase noise measurement derives an integral timing jitter of 1.7 fs and the digitization reaches an 8-bit resolution at 220 GHz carrier, which verify the good performance of the phase locking loop.
+
+
+Tu3.6 
+Resolution improvement of the large bandwidth and high-speed electrical spectrum analyzer based on dual optical frequency combs	
+
+Yuhua Duan, Lei Zhang, Liao Chen, Xi Zhou, Chi Zhang, Xinliang Zhang,(Huazhong University of Science and Technology, P.R. China)
+
+An all-optical electrical spectrum analyzer is demonstrated based on dual optical frequency combs and microwave photonics, and it improves the resolution to be 250 MHz over 10-GHz bandwidth, with the 1-kHz frame rate. The spectrum is directly obtained in the time domain, using as low as 10-MHz acquisition bandwidth, without any post-processing.
+
+
+We1.1 
+Microwave Photonics for High-speed Railway Applications: communication, detection and sensing
+
+Xihua Zou, (Southwest Jiaotong University, China)
+
+
+We1.2 
+VCSEL-SSMF-based Radio-over-Fiber link for low cost and low consumption Wireless Dense Networks
+
+Jacopo Nanni and Francesco Pizzuti (University of Bologna, Italy); Jean-Luc Polleux (ESYCOM-ESIEE-UPEM, France); Catherine Algani (Cnam, France); Giovanni Tartarini (DEI, University of Bologna, Italy)
+
+This paper presents a possible Radio-over-Fiber (RoF) system which can be implemented in current and next generations of cellular networks such as LTE or future 5G. The system proposed is based on low cost and low consumption optical components such as 850 nm Single Mode Vertical Cavity Surface Emitting Lasers (VCSELs) and Standard Single Mode Fiber (SSMF) of G.652 type. The performances are evaluated through the computation of the Error Vector Magnitude (EVM) for an entire LTE frame of 10 ms for 20 MHz band signal in band 20 of the standard. Appropriate countermeasures were adopted against the bandwidth reduction due to the behavior of the G.652 fiber, which in the first optical window stops to exhibit monomodality. This allowed to achieve high modulation format transmission is done for various input RF powers and for distances stretching up to 1.5 Km.
+
+
+We1.3 
+Photonic Sub-sampling of Signal at 43.1-GHz Using Optical Comb Based on an Optoelectronic Oscillator
+
+Rui Guo, Huayang Du, Huanfa Peng, Xiaofeng Peng, Cheng Zhang, Lixin Zhu, Juhao Li and Zhangyuan Chen (Peking University, P.R. China)
+
+
+We1.4
+Phase-Balanced Differential Vector Modulation by Laser and Electroabsorption Modulator
+
+Praimezt Mekbungwan (Chiang Mai University, Faculty of Engineering, Thailand); Ukrit Mankong (Chiang Mai University &amp; National Institute of Information and Communications Technology, Thailand); Keizo Inagaki (National Institute of Information and Communications Technology, Japan); Tetsuya Kawanishi (Waseda University &amp; National Institute of Information and Communications Technology, Japan)
+
+Directly modulated laser can be used as phase modulator due to chirp effect. However, accompanying amplitude modulation also results. By using EA Modulator in combination, light amplitude may be compensated enabling both amplitude and phase modulation of lightwave, which is an alternative method to conventional IQ modulator. Since light phase is proportional to intensity, we propose cumulative phase- balance coding to solve the limitation in the laser operating range for differential M-PSK and M-QAM modulation. The technique applies parallel DC-balance coding with phase-balance symbol mapping. The cumulative phase in high-order differential modulation is always bounded, it is for the first time, to our knowledge
+
+
+We1.5 
+GHz-wide Arbitrary-shaped Microwave Photonic Filter Based on Stimulated Brillouin Scattering Using Directly-modulated Laser
+
+Wei Wei and Lilin Yi (Shanghai Jiao Tong University, P.R. China); Yves Jaou?n (Telecom ParisTech, France); Weisheng Hu (Shanghai Jiao Tong University, P.R. China)
+
+We present a cost-efficient GHz-wide arbitrary-shaped microwave photonic filter based on stimulated Brillouin scattering in fiber. By employing a directly-modulated laser with well-designed current waveform and feedback adjustment, the filter shape has been arbitrarily controlled with high precision.
+
+
+We1.6
+High-resolution and Real-time Inverse Synthetic Aperture Imaging based on a Broadband Microwave Photonic Radar	
+
+Qingshui Guo (NUAA, P.R. China); Fangzheng Zhang (Nanjing University of Aeronautics &amp; Astronautics, P.R. China); Ziqian Wang (China Electronics Technology Group Corporation, P.R. China); Pei Zhou (NUAA, P.R. China); Shilong Pan (Nanjing University of Aeronautics &amp; Astronautics, P.R. China)
+
+A microwave photonic radar system with optical generation and de-chirping processing of broadband linear frequency modulated continuous-wave signal is proposed for high-resolution and real-time inverse synthetic aperture radar (ISAR) imaging. A K-band microwave photonic radar prototype is established and the ISAR imaging feasibility is experimentally investigated. The imaging results verify that the proposed radar works well and is hopefully to find wide applications where high-resolution and real-time radar imaging is required.
+
+
+We2.1 
+Photonics-aided W-band wireless millimeter-wave signal transmission
+
+Xinying Li, (Georgia Institute of Technology)
+
+
+We2.2 
+Virtualizing Cloud RAN by piggybacking on WDM-PON channels
+
+Leslie Ann, (Rusch University Laval, Canada)
+
+
+We2.3
+High-Capacity Dynamic Indoor Network Utilizing Optical Wireless and 60-GHz Radio Techniques
+
+Ketamaw Mekonnen (Eindhoven University of Technology, The Netherlands); Nicola Calabretta (COBRA Research Institute, The Netherlands); Eduward Tangdiongga (Eindhoven University of Technology &amp; Institute for Photonic Integration, The Netherlands); Ton Koonen (IPI, Eindhoven University of Technology, The Netherlands)
+
+We propose a full-duplex dynamic indoor optical-wireless system using photonic integrated circuits with multicasting capability of 10 Gb/s on-off-keying data, backed up by a 60 GHz radio system with data capacity of >40 Gb/s to realize reconfigurable and reliable high-capacity links to wireless users equipped with localization and tracking functionalities.
+
+
+We2.4 
+Real-time Wireless OFDM Communication in THz-band Using Optical DFT Processing
+
+Koichi Takiguchi (Ritsumeikan University, Japan)
+
+Real-time THz-wave wireless OFDM communication, which is assisted by optical technology, is reported. A 4 x 10 Gbit/s THz-wave OFDM signal is transferred into an optical OFDM signal, and the optical OFDM signal is successfully demultiplexed into four sub-carrier channels with an integrated-optic DFT circuit.
+
+
+We3.1 
+Microwave photonic synthetic aperture radar 
+
+Wangzhe Li, (Institute of Electronics Chinese Academy of Sciences, China)
+
+
+We3.2
+Optical phase lock loop as high-Q filter for optical frequency comb line selection
+
+Katarzyna Balakier and Haymen Shams; Martyn Fice, Lalitha Ponnampalam, Chris Graham, Cyril Renaud and Alwyn Seeds
+
+This paper describes the first optical phase lock loop (OPLL) based on a photonic integrated circuit (PIC) fabricated using a generic foundry process and off-the-shelf electronic components. The PIC contains a DBR laser that is for the first time frequency and phase stabilized in reference to an Optical Frequency Comb Generator (OFCG) line. The OFCG used in this demonstration offers 19 highly coherent lines spaced by 15 GHz. The OPLL can attenuate all adjacent comb lines and noise by more than 50 dB below the power of the selected comb line. Hence, the OPLL can be considered as an ultra-selective optical filter. The OPLL output is a single mode DBR laser line, with frequency offset from the reference comb line exactly selectable over the frequency range 4 GHz to 12 GHz. The laser can be current tuned over a 1 THz (8 nm) range enabling the different comb lines to be selected. The coherence between DBR laser and comb lines is demonstrated by measurements of the heterodyne signal residual phase noise level, which is below -100 dBc/Hz at 5 kHz offsets from the carrier. This is a record low value for an OPLL based on a monolithically photonic integrated circuit. Such an OPLL could be used for high purity, tuneable millimetre and THz wave generation.
+
+
+We3.3 
+16 Gbps RoF Link at 20 GHz Carrier Frequency using a Silicon Photonics Transmitter and Receiver	
+
+Kasper Van Gasse and Joris Van Kerrebrouck (Ghent University, Belgium); Amin Abbasi (Ghent University - imec, Belgium); Guy Torfs (Ghent University &amp; Imec, Belgium); Johan Bauwelinck and Gunther Roelkens (Ghent University - imec, Belgium)
+
+In future radio access networks, radio-over-fiber links will be a key enabling technology. A link which is cost-effective in both deployment and operation will be of paramount importance to the development of such networks. Using silicon photonics for the transmitter and receiver is a cost-effective and high-performance solution. In this work we present a link which can transport up to 16~Gbps 16-QAM data on a 20~GHz carrier over 5~km of SMF. The transmitter is a III-V-on-Si directly modulated laser and the receiver is a Ge-on-Si photodetector on a silicon photonic integrated circuit, co-integrated with a SiGe BiCMOS TIA. This is to the best of our knowledge the first Si PIC based RoF link with a directly modulated laser.
+
+
+We3.4
+Experimental Investigation of Phase Noise Tolerance of SSB THz Signals
+
+Luis Gonzalez Guerrero; Haymen Shams; Irshaad Fatadin; Martyn Fice; Mira Naftaly; Alwyn Seeds; Fr¨¦d¨¦ric Van Dijk (Alcatel Thales III-V Lab, France); Cyril Renaud
+
+Wireless bridges operating at THz frequencies have drawn a lot of attention in recent years. This application requires multiple optical local oscillators (LOs) throughout the link and, hence, the accumulated phase noise may impose a major challenge for its practical implementation. Of all the techniques to mitigate phase noise, single sideband (SSB) modulation is a very promising candidate due to its simple implementation. In this paper, we show, for the first time, the transmission of a 6 GBd SSB QPSK signal at 250 GHz and investigate the impact of laser phase noise on the quality of the THz signal. The performance of the system is investigated by digitally tuning the linewidth of the optical local oscillator up to 10 MHz. The results show no observable penalty associated with increasing linewidth, confirming the validity of SSB for applications where multiple domain conversions are required.
+
+
+We3.5
+Photonic high speed ultra-wideband microwave spectral scanning
+
+Yihan Li (IMRA America, Boulder Research Lab, USA); Naoya Kuse (IMRA America Inc., Boulder Research Labs, USA); Martin Fermann (IMRA America, Inc., USA)
+
+In this work we propose and experimentally demonstrate a photonics-assisted microwave spectral scanning system that realizes high-speed sweeping over ultra-broad bandwidth. Enabled by coherent dual electro-optical frequency combs and a recirculating optical frequency shifter, the proof-of-concept experimental setup handles the frequency range from ~ 1 to 8 GHz with 1.2 MHz spectral resolution within 14 ¦Ìs. The proposed schematic can be easily upgraded to larger bandwidth coverage, fast scan speed or finer spectral resolution, making it extremely interesting for microwave sensing applications.
+
+
+Th1.1 
+Space application of photonics
+
+Fran?ois Deborgies
+
+
+Th1.2
+A Photonics-Assisted Beamformer for K-band RF Antenna Arrays		
+
+Netsanet Tessema; Ailee Trinidad and Ketamaw Mekonnen (Eindhoven University of Technology, The Netherlands); J. H. C. van Zantvoort (University of Eindhoven, The Netherlands); Frans Huijskens and Zizheng Cao (Eindhoven University of Technology, The Netherlands); Eduward Tangdiongga (Eindhoven University of Technology &amp; Institute for Photonic Integration, The Netherlands); A. Bart Smolders (Eindhoven University of Technology, The Netherlands); Ton Koonen (IPI, Eindhoven University of Technology, The Netherlands)
+
+We present an experimental demonstration of radio beamforming using an optical chip for application in K-band satellite communication. Via coherent combination of four RF channels, close to 12 dB beamforming gain is obtained. As a result, the transmission capacity is enhanced from 8-QAM, 5.81 Gbps to 32-QAM, 9.68 Gbps of multi-carrier data. For 4 channel beamforming, error-free performance (BER<1E-12) is obtained with 8-QAM data. The tuning of the optical beamforming chip is done electronically via a software interface by a computer.
+
+
+Th1.3
+Electro-Optic Modulator for Pre-Equalization of Fiber Chromatic Dispersion Utilizing Travelling-Wave Electrodes and Polarization-Reversed Structures
+
+Tomohiro Ohno, Hiroshi Murata and Atsushi Sanada (Osaka University, Japan)
+
+We have proposed a pre-equalizing electro-optic modulator by utilizing travelling-wave electrodes and polarization-reversed structures for the compensation of signal distortion caused by fiber chromatic dispersion effect. In this paper, the first experimental demonstration of pre-equalization is reported. The proposed device is promising for long-haul fiber communication systems and microwave photonic applications.
+
+
+Th1.4	
+Distributed optical fiber sensing based on coherence-length gated microwave photonics interferometry Clemson
+
+Liwei Hua, Yang Song, Baokai Cheng, Wenge Zhu, Qi Zhang and Hai Xiao
+
+This paper reports a highly sensitive distributed optical fiber sensing technique based on resolving the optical interference information in the microwave frequency domain. This technique uses a microwave intensity modulated coherent light through cascaded weak reflectors along a single mode fiber (SMF). The microwave is used to resolve the location of each reflector along the SMF. The coherence length of the optical carrier performs as the time domain gate and segments the optical interference between reflectors in the time domain. Within the coherence length, a small optical path difference change between two reflectors produces a change in the amplitude of the corresponding time domain pulses. The sensitivity of sub-¦Ì¦Å for distributed strain sensing has been demonstrated.
+
+
+Th1.5	
+1 Gbaud QPSK Wireless Receiver using an Opto-Electronic Mixer
+
+Ahmad Mohammad; Haymen Shams; Chin-Pang Liu; Katarzyna Balakier; Chris Graham, Michele Natrella, A. j. Seeds and Cyril Renaud
+
+This paper presents the first demonstration of an uni-travelling carrier photodiode (UTC-PD) used as a receiver of a wirelessly transmitted quadrature phase shift keying (QPSK) signal. In this demonstration, a 1 Gbaud QPSK signal centered at 33.5 GHz was transmitted over a wireless distance of 1.4 m. At the receiver, an UTC-PD is used to down-convert the RF signal to an intermediate frequency (IF) of 9.5 GHz by mixing the RF signal with a heterodyne signal at 24 GHz. The down-converted signal is captured by the real time scope for further digital signal processing. The error vector magnitude (EVM) of the demodulated signal was measured to be 18%, which corresponds to a bit error rate (BER) of 10-8.
+
+
+Th1.6 
+Ultrafast photo-diode 
+
+Toshimasa Umezawa,
+
+
+Th1.7 
+3D hybrid photonic integration
+
+Jonathan Klamkin, 
+
+
+Th1.8 
+Optoelectronic Recirculating Delay Line Implementation of a High-Q Optoelectronic Oscillator
+
+Stavros Iezekiel, Georgios Charalambous, Andreas Perentos and G. k. m. Hasanuzzaman (University of Cyprus, Cyprus)
+
+A dual-loop optoelectronic oscillator incorporating an optoelectronic recirculating delay line in order to circumvent the limitations of optical coherence associated with all-optical loops is demonstrated. The optoelectronic oscillator produces a very stable signal at 5.4 GHz (suitable for WLAN 802.11n and 4G-WiMAX systems) with a sub-Hz 3-dB bandwidth and a Q-factor in excess of 10E+10. A phase noise of -115 dBc/Hz is recorded at 10 kHz offset, owing to the reduction in phase induced intensity noise, whilst side modes are significantly suppressed for offset values in the range 100 kHz - 1 MHz.
+
+
+Th1.9
+Noise measurement and modeling of a dual-frequency VECSEL at cesium clock wavelength
+
+Hui Liu ; Fabienne Goldfarb ; Nessrine Guerchi and Chang-Hoong Chow; Ghaya Baili ; Isabelle Sagnes; Fabien Bretenaker; Gr¨¦goire Beaudoin
+
+We study the noise of a class-A dual-frequency vertical external cavity surface emitting laser at Cesium clock wavelength. Both the intensity noise and phase noise of the beatnote between the two orthogonal polarized modes are measured and modeled. The intensity noise of the two orthogonal laser modes and its correlation are well predicted by a theory based on modified rate equations. The phase noise of the beatnote is predicted by the theory based on thermal effect and phase/amplitude coupling effect.
+
+
+Th1.10
+In-Fibre Diffraction Grating Based Beam Steering for Full Duplex Optical Wireless Communication
+
+Guoqing Wang and Usman Habib ; Zhijun Yan ; Nathan J Gomes ; Lin Zhang (Aston University, P.R. China); Chao Wang
+
+A novel approach to achieve wavelength controlled optical beam steering using a 45¡ã tilted fiber grating (TFG) for full-duplex indoor optical wireless transmission is proposed and experimentally demonstrated for the first time. The 45¡ã TFG functions as an in-fiber passive diffraction device for wavelength steered light emission and reception, which enables full-duplex optical wireless transmission. The unique advantages of using an in-fiber TFG device for beam steering include high diffraction efficiency, low cost, compactness and inherent compatibility with existing fiber links. In a proof-of-concept experiment, free-space full-duplex transmission over 1.4 m with data rate of 9.6 Gb/s per beam has been demonstrated using 2.4 GHz bandwidth signals.
+
+
+Th2.1
+Sensing and imaging applications by using mode-locking laser based microwave photonics 
+
+Kebin Shi, (Peking University) 
+
+
+Th2.2
+High-speed membrane-type photodetectors on silicon substrates for wireless communications
+
+Longfei Shen, (JePPIX, the Netherlands Topic/Title:) 
+
+
+Th2.3
+Radio-over-Fiber-supported 60GHz Multiuser Transmission using Leaky Wave Antenna	
+
+Usman Habib (University of Kent, United Kingdom (Great Britain)); Matthias Steeg and Andreas St?hr (University of Duisburg-Essen, Germany); Nathan J Gomes (University of Kent, United Kingdom (Great Britain))
+
+Simultaneous transmission to multiple users using a single-feed leaky-wave antenna (LWA) has been demonstrated. A composite signal transported through a Radio-over-Fibre (RoF) setup is upconverted to V-band frequencies and a LWA is used to direct different user data to their respective locations. An EVM analysis has been performed for two-user and three-user transmission for a range of angular locations. A performance analysis for user interference has been carried out by varying the signal spacing for 152 MHz and 305 MHz bandwidth OFDM signals, centered at 61.75 GHz after 4m of wireless transmission. The experimental results show degradation not only due to insufficient frequency spacing between the channels but also when the sidelobe interference of the neighboring data channels is higher.
+
+
+Th2.4	
+28 GHz 5G Radio over Fibre using UF-OFDM with Optical Heterodyning
+
+Eamonn Martin (Dublin City University, Ireland); Colm Browning (DCU, Ireland); Arman Farhang (CONNECT, Trinity College Dublin, Ireland); Manh Ha Hoang (Dublin Institute of Technology, Ireland); Matthias John (Trinity College Dublin &amp; Dublin Institute of Technology, Ireland); Max James Ammann (Dublin Institute of Technology, Ireland); Linda Doyle (Trinity Collage Dublin, Ireland); Liam Barry (Dublin City University, Ireland)
+
+A 5G millimeter-wave radio over fibre optical fronthaul system based on optical heterodyning, utilising an externally injected gain switched distributed feedback laser, is successfully demonstrated. Five bands of UF-OFDM are transmitted over 25 km of fibre and a 28 GHz Vivaldi Antenna wireless link. Transmission performance below the 7% FEC limit is achieved with an aggregate total data rate of 4.56 Gb/s.
+
+
+Th2.5
+MIMO Capable RoF System with Improved SFDR using Quadruple Sidebands
+
+Yumeng Yang, Michael J Crisp and Tongyun Li (University of Cambridge, United Kingdom (Great Britain)); Richard Penty (Cambridge University, United Kingdom (Great Britain)); Ian White (University of Cambridge, United Kingdom (Great Britain))
+
+An RoF system using a quadrature-multiplexing technique is shown experimentally to improve the 3rd order SFDR by 2.7dB over an intrinsic optical link. As a result of orthogonality between quadrature sidebands, the system can support MIMO.
+
+
+Th2.6 
+A Photonics-based RF Scanning Receiver Exploiting Digital Feed-forward Lasers Noise Cancellation
+
+Daniel Onori (Scuola Superiore Sant'Anna, Italy); Antonella Bogoni and Paolo Ghelfi (CNIT, Italy)
+
+This paper presents an innovative architecture of photonics-based RF scanning receiver that exploits a digital feed-forward noise cancellation method for removing the beat noise between the lasers used in the scheme, instead of a complex laser locking mechanism as in a previous implementation. Moreover, compared with conventional channelized implementations, it reaches wide operating frequency range and reduced encumbrance, avoiding the need for bulky RF components such as RF filter banks and synthesizers. An experimental validation shows an RF input range of 0¡Â27.5 GHz and instantaneous bandwidth of 2 GHz. Further developments will increase the range over 40 GHz. Implementing the scheme through integrated photonics technologies will reach high environmental stability and reduced size weight and power consumption, meeting the increasing requirements of wideband real-time RF signal analysis.
